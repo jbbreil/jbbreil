@@ -2,7 +2,7 @@
 
 Jag håller på med att jobba på Moment 1 som heter Versionshantering & Git.
 
-- 📫 How to reach me:
+- 📫 Hur man når mig:
 
 + E-post giin1900@student.miiun.se
 

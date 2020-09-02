@@ -1,6 +1,6 @@
 ### Hej! 👋
 
-- 🔭 Jag håller på med att jobba på Moment 1 som heter Versionshantering & Git.
+Jag håller på med att jobba på Moment 1 som heter Versionshantering & Git.
 
 - 📫 How to reach me:
 

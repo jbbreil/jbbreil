@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hej! 👋
+
+- 🔭 Jag håller på med att jobba på Moment 1 som heter Versionshantering & Git.
+
+- 📫 How to reach me:
+
++ E-post giin1900@student.miiun.se
 
 <!--
 **jbbreil/jbbreil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
